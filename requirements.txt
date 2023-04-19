@@ -1,3 +1,4 @@
 streamlit
 sklearn
 numpy
+scikit-learn
